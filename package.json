@@ -1,0 +1,20 @@
+{
+  "name": "notes-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lunardistance/WEB2040SQL-Exam2.git"
+  },
+  "author": "Gabriel Luciano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lunardistance/WEB2040SQL-Exam2/issues"
+  },
+  "homepage": "https://github.com/Lunardistance/WEB2040SQL-Exam2#readme"
+}
